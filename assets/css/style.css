@@ -65,23 +65,23 @@ section:nth-of-type(-n + 4) div h3 {
 
 section:first-of-type {
   background: rgba(0, 0, 0, 0.7)
-    url("Portfolio-lev_3/assets/images/portfolio2.jpg") center/ cover no-repeat;
+    url(Portfolio-lev_3/assets/images/portfolio2.jpg) center/ cover no-repeat;
   background-blend-mode: multiply;
 }
 
 section:nth-of-type(2) {
-  background: url("Portfolio-lev_3/assets/images/portfolio3.png") center/ cover
+  background: url(Portfolio-lev_3/assets/images/portfolio3.png) center/ cover
     no-repeat;
 }
 
 section:nth-of-type(3) {
   background: rgba(0, 0, 0, 0.7)
-    url("Portfolio-lev_3/assets/images/portfolio4.jpg") center/ cover no-repeat;
+    url(Portfolio-lev_3/assets/images/portfolio4.jpg) center/ cover no-repeat;
   background-blend-mode: multiply;
 }
 
 section:nth-of-type(4) {
-  background: url("Portfolio-lev_3/assets/images/portfolio5.png") center/ cover
+  background: url(Portfolio-lev_3/assets/images/portfolio5.png) center/ cover
     no-repeat;
 }
 
