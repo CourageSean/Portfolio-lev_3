@@ -69,17 +69,18 @@ section:first-of-type {
 }
 
 section:nth-of-type(2) {
-  background: url(/assets/images/portfolio3.png) center/ cover no-repeat;
+  background: url(https://i.postimg.cc/qBbhZgcB/portfolio3.png) center/ cover
+    no-repeat;
 }
 
 section:nth-of-type(3) {
   background: rgba(0, 0, 0, 0.7)
-    url(Portfolio-lev_3/assets/images/portfolio4.jpg) center/ cover no-repeat;
+    url(https://i.postimg.cc/nzVr3tCQ/portfolio4.jpg) center/ cover no-repeat;
   background-blend-mode: multiply;
 }
 
 section:nth-of-type(4) {
-  background: url(Portfolio-lev_3/assets/images/portfolio5.png) center/ cover
+  background: url(https://i.postimg.cc/gJBz4XCf/portfolio5.png) center/ cover
     no-repeat;
 }
 
