@@ -63,8 +63,8 @@ section:nth-of-type(-n + 4) div h3 {
 
 /* ========= section backgrounds ============*/
 section:first-of-type {
-  background: rgba(0, 0, 0, 0.7) url(https://ibb.co/RQ2TPmf) center/ cover
-    no-repeat;
+  background: rgba(0, 0, 0, 0.7)
+    url(https://i.postimg.cc/90HWHzTd/portfolio2.jpg) center/ cover no-repeat;
   background-blend-mode: multiply;
 }
 
