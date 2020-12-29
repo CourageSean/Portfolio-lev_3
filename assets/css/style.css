@@ -80,7 +80,7 @@ section:nth-of-type(3) {
 }
 
 section:nth-of-type(4) {
-  background: url(7assets/images/portfolio5.png) center/ cover no-repeat;
+  background: url(/assets/images/portfolio5.png) center/ cover no-repeat;
 }
 
 /*========== (even)sections style & hover-effect ============*/
